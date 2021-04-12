@@ -21,4 +21,7 @@ body{
     .range{
         font-size: 10px;
     }
+    .author{
+        font-size: 12px;
+    }
 }
