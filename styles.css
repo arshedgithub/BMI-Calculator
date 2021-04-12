@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(60, 70, 66);
+}
+.content{
+    max-width: 500px; 
+    background-color: rgb(113, 118, 121);
+    border-radius: 2vh;  
+}
+.submit{
+    border-radius: 1.5vh;
+    background-color: rgb(77, 47, 27);
+}
+.bmi{
+    background-color: blue;
+}
+.value{
+    background-color: blueviolet;
+}
