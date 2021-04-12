@@ -8,11 +8,17 @@ body{
 }
 .submit{
     border-radius: 1.5vh;
-    background-color: rgb(77, 47, 27);
+    background-color: rgb(94, 43, 13);
 }
-.bmi{
-    background-color: blue;
+.author{
+    font-family: cursive;
 }
-.value{
-    background-color: blueviolet;
+
+@media screen and (max-width: 520px){
+    body{
+        padding: 0 2vh;
+    }
+    .range{
+        font-size: 11px;
+    }
 }
